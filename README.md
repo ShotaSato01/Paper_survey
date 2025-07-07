@@ -19,6 +19,8 @@ a1da4さんの[テンプレート](https://github.com/a1da4/paper-survey)を使�
 
 ## 5. Is there a discussion?
 
-## 6. Which paper should read next? ```
+## 6. Which paper should read next?
+
+```
 
 まとめる前の[論文リスト](https://docs.google.com/spreadsheets/d/1EZQr8S09XXmoMoT6YnLesl2EgBuR4vq9ynJnATVVa6s/edit?gid=556625280#gid=556625280)
