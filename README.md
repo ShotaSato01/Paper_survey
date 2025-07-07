@@ -1,6 +1,8 @@
 # Paper_survey
 読んだ論文のまとめ
 
+(今まで読んできたものを移行中)
+
 Main Topic
 - Common Ground × NLP
 
