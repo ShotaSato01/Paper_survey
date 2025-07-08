@@ -4,6 +4,7 @@
 (今まで読んできたものを移行中)
 
 Main Topic
+- Word Embedding
 - Common Ground × NLP
 
 
