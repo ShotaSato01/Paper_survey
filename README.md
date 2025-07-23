@@ -8,6 +8,11 @@ Main Topic
 - Common Ground × NLP (Cognitive × NLP)
 - Vision and Language
 
+Label
+- c: Conference
+- t: Topic
+- y: Year
+- ZZ: Other
 
 a1da4さんの[テンプレート](https://github.com/a1da4/paper-survey)を使用
 ```markdown
