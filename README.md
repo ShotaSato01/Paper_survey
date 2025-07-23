@@ -5,7 +5,8 @@
 
 Main Topic
 - Word Embedding
-- Common Ground × NLP
+- Common Ground × NLP (Cognitive × NLP)
+- Vision and Language
 
 
 a1da4さんの[テンプレート](https://github.com/a1da4/paper-survey)を使用
