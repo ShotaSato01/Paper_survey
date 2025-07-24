@@ -1,7 +1,7 @@
 # Paper_survey
 読んだ論文のまとめ
 
-(今まで読んできたものを移行中)
+(今まで読んできたものも少しずつ移行中)
 
 Main Topic
 - Word Embedding
