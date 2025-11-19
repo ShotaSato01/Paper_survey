@@ -1,8 +1,6 @@
 # Paper_survey
 読んだ論文のまとめ (2025/7/8~)
 
-(今まで読んできたものも少しずつ移行中)
-
 Main Topic
 - Word Embedding
 - Common Ground × NLP (Cognitive × NLP)
